@@ -1,0 +1,17 @@
+#fourth_el, #fifth_el {
+    cursor: pointer;
+}
+
+#image-container {
+    margin-top: 20px;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
